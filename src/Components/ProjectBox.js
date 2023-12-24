@@ -11,7 +11,7 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     StudentMarkPredictionDesc : "This project tries to predict the marks of students using various machine learning algorithms.",
     StudentMarkPredictionGithub : "https://github.com/Shashwat-arch/End-to-end-Student-Mark-Prediction-System",
 
-    HeartDiseasePredictionDesc:"A newsletter signup site made using Mailchimp API where the signups can be monitored from the MailChimp account. This project was made to understand API integration, environment variables and vercel deployment.",
+    HeartDiseasePredictionDesc:"This project tries to predict whether a person has heart disease based on medical parameters.",
     HeartDiseasePredictionGithub :"https://github.com/Shashwat-arch/Heart-Disease-Prediction",
     
   }

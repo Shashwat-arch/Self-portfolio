@@ -1,9 +1,8 @@
 import React from 'react';
 import ProjectBox from './ProjectBox';
-import SuicideCorrelation from '../images/SuicideCorrelation';
-import SMPS from '../images/SMPS';
-import heartdiseaseprediction from '../images/heartdiseaseprediction';
-
+import SuicideCorrelation from '../images/SuicideCorrelation.jpg';
+import SMPS from '../images/SMPS.jpg';
+import heartdiseaseprediction from '../images/heartdiseaseprediction.png'
 const Projects = () => {
   return (
     <div>
