@@ -9,7 +9,7 @@ import Project from "./Components/Projects";
 import MoveToTop from "./Components/MoveToTop";
 import Lottie from  "lottie-react";
 import nightsky from "./LottieFiles/night-sky.json";
-import HashLoader from "react-spinners/HashLoader";
+import PropagateLoader  from "react-spinners/PropagateLoader";
 
 
 function App() {
@@ -27,10 +27,10 @@ function App() {
     <>
       {Loading ? (
       <div className="loader"> 
-        <HashLoader
+        <PropagateLoader 
           color={'#9067C6'}
           loading={true}
-          size={100}
+          size={40}
           aria-label="Loading Spinner"
           data-testid="loader"
         />
